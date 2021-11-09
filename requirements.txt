@@ -1,0 +1,7 @@
+# Andy Wang's final project for CSC110
+
+# Testing and code checking
+python-ta
+
+# Graphics and data visualization
+pygame==2.0.0.dev10

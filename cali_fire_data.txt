@@ -1,0 +1,91 @@
+2008
+Butte,47647,Lightning,117
+Mariposa,34091,Other,133
+Riverside,30305,Structure,245
+Shasta,27936,Lightning,12
+Butte,23344,Arson,351
+6255,1593690
+2009
+Los Angeles,160577,Arson,209
+Santa Barbara,91622,Campfire,2
+Ventura,17500,Combustion,0
+San Joaquin,12200,Other,2
+Santa Barbara,8733,Equipment,160
+7010,451969
+2010
+Kern,16442,Other,14
+Los Angeles,14000,Unknown,10
+Kern,9820,Unknown,1
+Lassen,9408,Lightning,0
+San Diego,3225,Unknown,0
+6394,134462
+2011
+Kern,29338,Lightning,0
+Kern,25213,Lightning,0
+Kern,14585,Equipment,100
+San Diego,14100,Arson,0
+Kern,10470,Lightning,0
+7732,228599
+2012
+Lassen,271911,Lightning,0
+Lassen,75217,Unknown,9
+Shasta,46011,Lightning,0
+Mendocino,41983,Lightning,26
+Modoc,38394,Lightning,3
+7041,829224
+2013
+Tuolumne,257314,Unknown,119
+Siskiyou,37246,Human,0
+Los Angeles,30274,Unknown,62
+Riverside,27531,Electrical,24
+Placer,27440,Unknown,7
+8889,601635
+2014
+Siskiyou,134056,Lightning,6
+El Dorado,97717,Human,80
+Siskiyou,50042,Lightning,2
+Shasta,39736,Lightning,0
+Siskiyou,32496,Lightning,6
+7233,625540
+2015
+Fresno,151623,Lightning,4
+Trinity,77081,Lightning,0
+Lake,76067,Electrical,1958
+Amador,70868,Electrical,965
+Lake,69636,Equipment,96
+8283,880899
+2016
+Monterey,132127,Campfire,68
+Kern,48019,Unknown,286
+San Luis Obispo,46235,Vehicle,70
+Los Angeles,41383,Unknown,116
+San Bernardino,36274,Unknown,321
+6954,669534
+2017
+Ventura,281893,Unknown,1063
+Lassen,83733,Unknown,8
+Modoc,83120,Unknown,0
+Mariposa,81826,Shooting,131
+Siskiyou,78698,Lightning,0
+9270,1548429
+2018
+Colusa,459123,Human,281
+Shasta,229651,Vehicle,1614
+Butte,153336,Electrical,18804
+Ventura,96949,Unknown,1643
+Mariposa,96901,Unknown,11
+7948,1975086
+2019
+Sonoma,77758,Unknown,374
+Plumas,54612,Unknown,9
+Modoc,14217,Human,0
+Inyo,10296,Lightning,0
+Ventura,9999,Unknown,4
+7860,259823
+2020
+Mendocino,846732,Lightning,35
+Los Angeles,396624,Lightning,222
+San Francisco,363220,Lightning,1491
+Butte,299723,Lightning,1874
+Fresno,283724,Unknown,855
+9279,4197628
